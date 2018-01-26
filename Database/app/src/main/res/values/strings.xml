@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="name_txt">Enter Name</string>
+    <string name="email_txt">Enter email</string>
+    <string name="address_txt">Enter address</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_reset">Reset</string>
+</resources>
